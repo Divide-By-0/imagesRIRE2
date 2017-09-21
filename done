@@ -1,0 +1,38 @@
+[33mcommit 112185f030980f5e94b11f8e75c07a77946dcf2a[m
+Author: cyril.desktop <hold80@hotmail.com>
+Date:   Thu Sep 21 15:32:31 2017 -0700
+
+    new results without cropping
+
+[33mcommit e4b34d057d4d249033164ad6713dc889e26b8632[m
+Author: cyril.desktop <hold80@hotmail.com>
+Date:   Wed Sep 20 22:54:43 2017 -0700
+
+    new run
+
+[33mcommit b0358b0c89acdd7c312dea61c86f83812313c2e9[m
+Author: cyril.desktop <hold80@hotmail.com>
+Date:   Sun Sep 17 22:04:39 2017 -0700
+
+    added ct truth images
+
+[33mcommit 52cc651b774099d083f33618cb0cdf77f0dc5c87[m
+Merge: 3620468 b582331
+Author: cyril.desktop <hold80@hotmail.com>
+Date:   Sun Sep 17 16:43:05 2017 -0700
+
+    Merge branch 'master' of https://github.com/Divide-By-0/imagesRIRE
+    
+    initialization
+
+[33mcommit b58233147b479487aa0a9a93d81b7cf50ef07ada[m
+Author: Divide-By-0 <aayushgupta05@gmail.com>
+Date:   Sun Sep 17 16:37:41 2017 -0700
+
+    Initial commit
+
+[33mcommit 362046808d56d8d37bd0343a1f2955f49cfe6ce6[m
+Author: cyril.desktop <hold80@hotmail.com>
+Date:   Sun Sep 17 16:37:02 2017 -0700
+
+    images generated
